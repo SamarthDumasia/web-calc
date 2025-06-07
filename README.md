@@ -21,7 +21,7 @@ An innovative web calculator with advanced UI/UX features including:
 - JavaScript (ES6+)
 
 ## Live Demo
-[View Demo](YOUR_GITHUB_PAGES_URL)
+[View Demo](https://YOUR_USERNAME.github.io/web-calc)
 
 ## Installation
 1. Clone the repository
